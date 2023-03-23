@@ -161,14 +161,4 @@
     top: 0;
     left: 0;
     transform: translate(-50%, -50%);
-    animation: errorIcon 1s linear forwards;
-}
-
-@keyframes errorIcon {
-    0% {
-        display: block;
-    }
-    100% {
-        display: none !important;
-    }
 }
